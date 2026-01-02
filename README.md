@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Broadcast prerecordings media 🛋️
+Broadcast prerecordings media database 🛋️
 
 [![Lint](https://github.com/radio-aktywne/amber/actions/workflows/lint.yaml/badge.svg)](https://github.com/radio-aktywne/amber/actions/workflows/lint.yaml)
 [![Image](https://github.com/radio-aktywne/amber/actions/workflows/image.yaml/badge.svg)](https://github.com/radio-aktywne/amber/actions/workflows/image.yaml)
@@ -15,8 +15,7 @@ Broadcast prerecordings media 🛋️
 
 ## 💡 About
 
-`amber` is a [`MinIO`](https://min.io) based storage
-for prerecorded broadcasts.
+`amber` is a [`MinIO`](https://min.io) database for prerecorded broadcasts.
 
 ## 📄 Further Reading
 

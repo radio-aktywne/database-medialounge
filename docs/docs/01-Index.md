@@ -5,9 +5,8 @@ title: Index
 
 # amber
 
-Broadcast prerecordings media 🛋️
+Broadcast prerecordings media database 🛋️
 
 ## 💡 About
 
-`amber` is a [`MinIO`](https://min.io) based storage
-for prerecorded broadcasts.
+`amber` is a [`MinIO`](https://min.io) database for prerecorded broadcasts.
